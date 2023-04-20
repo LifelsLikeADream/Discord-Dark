@@ -35,7 +35,7 @@
 @import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css);
 
 :root {
-	:is([class*=contents-], [class*=memberInner]):has([src*="393694671383166998"]) [class*=username] {
+	:is([class*=contents-], [class*=memberInner]):has([src*="748350098123128925"]) [class*=username] {
   color: #FFFFFF !important;
 	--theme: Discord Dark by SyndiShanX;                           /* Update Warning                                                         */
 	--version-1-28: none;                                          /* Replaces Default Discord Colors                                        */
