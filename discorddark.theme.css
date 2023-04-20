@@ -38,8 +38,8 @@
   color: #FFFFFF !important;
 
 :root {
-	:is([class*=contents-], [class*=memberInner]):has([src*="393694671383166998"]) [class*=username] {
-  color: #fff !important;
+	:is([class*=contents-], [class*=memberInner]):has([src*="748350098123128925"]) [class*=username] {
+  color: #FFFFFF !important;
 }
 
 	--theme: Discord Dark by SyndiShanX;                           /* Update Warning                                                         */
