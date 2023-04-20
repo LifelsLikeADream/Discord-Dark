@@ -36,6 +36,7 @@
 
 :is([class*=contents-], [class*=memberInner]):has([src*="748350098123128925"]) [class*=username] {
   color: #FFFFFF !important;
+}
 
 :root {
 	--theme: Discord Dark by SyndiShanX;                           /* Update Warning                                                         */
